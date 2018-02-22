@@ -1,0 +1,2 @@
+# Localización con Laravel
+
